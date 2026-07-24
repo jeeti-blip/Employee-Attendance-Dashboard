@@ -2,7 +2,7 @@
 
 An interactive Power BI dashboard that tracks employee attendance, work-from-home (WFH), and sick leave (SL) trends across a quarter, enabling HR and management to monitor attendance health against a defined target.
 
-https://github.com/jeeti-blip/Employee-Attendance-Dashboard/blob/main/Snapshot%20Of%20Dashboard.png
+![Employee Attendance Dashboard](https://github.com/jeeti-blip/Employee-Attendance-Dashboard/blob/main/Snapshot%20Of%20Dashboard.png)
 
 ## 📊 Overview
 
